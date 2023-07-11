@@ -1,1 +1,8 @@
-/*  your css code here. If applicable */
+.ken::before{
+	content: Before Element;
+	color: red;
+}
+.ken::after{
+	content: After Element;
+	color: red;
+}
